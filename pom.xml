@@ -8,8 +8,8 @@
     <packaging>pom</packaging>
     <url>http://maven.apache.org</url>
     <modules>
-        <!--<module>testServlet</module>-->
+        <module>testServlet</module>
         <module>testGWT</module>
-        <!--<module>testSmartGWT</module>-->
+        <module>testSmartGWT</module>
     </modules>
 </project>
